@@ -10,3 +10,6 @@
 ## 팀별 프로젝트
 
 ### [록스해적단: 5팀](https://github.com/VARZero/Hangul_HandLang)
+
+---
+## [Jetson Orin Nano setup](https://github.com/hochaeAidl/on-device-ai-jetson)
